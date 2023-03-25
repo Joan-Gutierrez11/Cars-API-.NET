@@ -1,0 +1,12 @@
+/home/joan/Documentos/Proyectos C#/MyAPI/MyAPI.Model/bin/Debug/net6.0/MyAPI.Model.deps.json
+/home/joan/Documentos/Proyectos C#/MyAPI/MyAPI.Model/bin/Debug/net6.0/MyAPI.Model.dll
+/home/joan/Documentos/Proyectos C#/MyAPI/MyAPI.Model/bin/Debug/net6.0/ref/MyAPI.Model.dll
+/home/joan/Documentos/Proyectos C#/MyAPI/MyAPI.Model/bin/Debug/net6.0/MyAPI.Model.pdb
+/home/joan/Documentos/Proyectos C#/MyAPI/MyAPI.Model/obj/Debug/net6.0/MyAPI.Model.csproj.AssemblyReference.cache
+/home/joan/Documentos/Proyectos C#/MyAPI/MyAPI.Model/obj/Debug/net6.0/MyAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+/home/joan/Documentos/Proyectos C#/MyAPI/MyAPI.Model/obj/Debug/net6.0/MyAPI.Model.AssemblyInfoInputs.cache
+/home/joan/Documentos/Proyectos C#/MyAPI/MyAPI.Model/obj/Debug/net6.0/MyAPI.Model.AssemblyInfo.cs
+/home/joan/Documentos/Proyectos C#/MyAPI/MyAPI.Model/obj/Debug/net6.0/MyAPI.Model.csproj.CoreCompileInputs.cache
+/home/joan/Documentos/Proyectos C#/MyAPI/MyAPI.Model/obj/Debug/net6.0/MyAPI.Model.dll
+/home/joan/Documentos/Proyectos C#/MyAPI/MyAPI.Model/obj/Debug/net6.0/ref/MyAPI.Model.dll
+/home/joan/Documentos/Proyectos C#/MyAPI/MyAPI.Model/obj/Debug/net6.0/MyAPI.Model.pdb
